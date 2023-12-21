@@ -1,0 +1,2 @@
+# Домашнее задание к занятию 1.2: Stream API. Потоки, повторные вызовы, основные методы
+## [Задача 1: Работа с числами](https://github.com/netology-code/jd-homeworks/blob/master/streams/task1/README.md)
